@@ -1,0 +1,12 @@
+# Datasets (large binary files - do not commit)
+datasets/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Results (generated at runtime)
+results/
