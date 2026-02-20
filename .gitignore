@@ -1,5 +1,6 @@
 # Datasets (large binary files - do not commit)
 datasets/
+Anomalib/
 
 # Python
 __pycache__/
