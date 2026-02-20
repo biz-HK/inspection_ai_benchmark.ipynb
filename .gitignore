@@ -1,0 +1,14 @@
+# Datasets (large binary files - do not commit)
+datasets/
+Anomalib/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Results (generated at runtime)
+results/
